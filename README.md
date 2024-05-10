@@ -408,13 +408,12 @@ contact.html
 ```
 
 ## OUTPUT:
-![alt text](<pharma home.png>)
-![alt text](<pharma about.png>)
-![alt text](<pharma product.png>)
-![alt text](<pharma contact.png>)
-## RESULT:
-The Project for responsive web design using Bootstrap is completed successfully.
+![Screenshot 2024-05-10 191748](https://github.com/Karthickraja23006120/Pharma/assets/139335315/b0562857-30b4-4196-91db-6c925c846493)
+![Screenshot 2024-05-10 191857](https://github.com/Karthickraja23006120/Pharma/assets/139335315/003e6aed-93f7-4163-881f-07166093e0e7)
+![Screenshot 2024-05-10 191939](https://github.com/Karthickraja23006120/Pharma/assets/139335315/db505c20-a3e0-46d9-9d91-17f587372469)
+![Screenshot 2024-05-10 192009](https://github.com/Karthickraja23006120/Pharma/assets/139335315/52df6ab2-623e-4f14-9856-9d29e1321dc6)
 
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
+
